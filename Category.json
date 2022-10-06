@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "category":"Hatchback car",
+        "category_id": 1
+    },
+    {
+        "id":2,
+        "category":"Sedan car",
+        "category_id": 2
+       
+    },
+    {
+        "id":3,
+        "category":"MUV car",
+        "category_id": 3
+       
+    },
+    {
+        "id":4,
+        "category":"SUV car",
+        "category_id": 4
+    
+]

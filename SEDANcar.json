@@ -1,0 +1,222 @@
+[
+    {
+        "id": 2,
+        "Brand":"Hyundai",
+        "product_name":"Hyundai Verna",
+        "category": "Sedan Car",
+        "category_id": 2,
+        "Image": "https://i.ibb.co/n1X2nvv/vernavernarightfrontthreequarter.jpg",
+        "Price": 943000,
+        "Engine Capacity": "998 to 1497 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual, Automatic (CVT), Automatic (TC) & Automatic (DCT)",
+        "Fuel Tank Capacity":"45 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"210 Kmph",
+        "Mileage":"17.7 to 25 kmpl",
+        "Max Power":"113.45 bhp @ 4000 rpm",
+        "Max Torque": "250 nm @ 27500 rpm",
+        "Varient":"Petrol & Diesel",
+        "Service Cost per Year": 4113
+
+    },
+
+    {
+        "id": 2,
+        "Brand":"Honda",
+        "product_name":"Honda All New City",
+        "category": "Sedan Car",
+        "category_id": 2,
+        "Image": "https://i.ibb.co/BLRLN3s/allnewcityallnewcityrightfrontthreequarter.jpg",
+        "Price": 1160000,
+        "Engine Capacity": "1498 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual & Automatic (CVT)",
+        "Fuel Tank Capacity":"40 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"180 Kmph",
+        "Mileage":"17.8 to 24.1 kmpl",
+        "Max Power":"119 bhp @ 6600 rpm",
+        "Max Torque": "145 nm @ 4300 rpm",
+        "Varient":"Petrol & Diesel",
+        "Service Cost per Year":  5921
+
+    },
+    
+    {
+        "id": 2,
+        "Brand":"Volkswagen",
+        "product_name":"Volkswagen Virtus",
+        "category": "Sedan Car",
+        "category_id": 2,
+        "Image": "https://i.ibb.co/64bvqcp/virtusvirtusrightfrontthreequarter.jpg",
+        "Price": 1132000,
+        "Engine Capacity": "999 to 1498 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual, Automatic (TC) & Automatic (DCT)",
+        "Fuel Tank Capacity":"45 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"190 Kmph",
+        "Mileage":"18.1 to 19.4 kmpl",
+        "Max Power":"114 bhp @ 5000 rpm",
+        "Max Torque": "178 nm @ 1750 rpm",
+        "Varient":"Petrol",
+        "Service Cost per Year":  5707
+
+    },
+    
+    {
+        "id": 2,
+        "Brand":"Suzuki",
+        "product_name":"Maruti Ciaz",
+        "category": "Sedan Car",
+        "category_id": 2,
+        "Image": "https://i.ibb.co/LhRxXn8/ciazciazrightfrontthreequarter.jpg",
+        "Price": 878000,
+        "Engine Capacity": "1462 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual & Automatic (TC)",
+        "Fuel Tank Capacity":"43 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"190 Kmph",
+        "Mileage":"20 to 20.6 kmpl",
+        "Max Power":"77 kW @ 6000 rpm",
+        "Max Torque": "138 nm @ 4400 rpm",
+        "Varient":"Petrol",
+        "Service Cost per Year":  4668
+
+    },
+    
+    {
+        "id": 2,
+        "Brand":"Skoda",
+        "product_name":"Skoda Slavia",
+        "category": "Sedan Car",
+        "category_id": 2,
+        "Image": "https://i.ibb.co/zWM93RS/slaviaslaviarightfrontthreequarter.jpg",
+        "Price": 1099000,
+        "Engine Capacity": "999 to 1498 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual, Automatic (TC) & Automatic (DCT)",
+        "Fuel Tank Capacity":"45 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"202 Kmph",
+        "Mileage":"18 to 19.4 kmpl",
+        "Max Power":"148 bhp @ 5000 rpm",
+        "Max Torque": "250 nm @ 1600 rpm",
+        "Varient":"Petrol",
+        "Service Cost per Year": 10551
+
+    },
+    
+    {
+        "id": 2,
+        "Brand":"BMW",
+        "product_name":"BMW 3 Series",
+        "category": "Sedan Car",
+        "category_id": 2,
+        "Image": "https://i.ibb.co/Qp76H2q/3seriesbmwseriesexterior.jpg",
+        "Price": 4686000,
+        "Engine Capacity": "1995 to 1998 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Automatic (TC)",
+        "Fuel Tank Capacity":"59 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"250 Kmph",
+        "Mileage":"11.37 to 20.37 kmpl",
+        "Max Power":"382.19 bhp @ 5800 rpm",
+        "Max Torque": "500 nm @ 5000 rpm",
+        "Varient":"Petrol & Diesel",
+        "Service Cost per Year":  22883
+
+    },
+    
+    {
+        "id": 2,
+        "Brand":"Mercedes-Benz",
+        "product_name":"Mercedes-Benz A-Class Limousine",
+        "category": "Sedan Car",
+        "category_id": 2,
+        "Image": "https://i.ibb.co/1MsbWJW/aclasslimousineaclasslimousinerightfrontthreequarter.jpg",
+        "Price": 4199000,
+        "Engine Capacity": "1332 to 1950 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Automatic (DCT)",
+        "Fuel Tank Capacity":"55 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"230 Kmph",
+        "Mileage":"17.5 to 21.3 kmpl",
+        "Max Power":"147.51 bhp @ 4000 rpm",
+        "Max Torque": "320 nm @ 3500 rpm",
+        "Varient":"Petrol & Diesel",
+        "Service Cost per Year":  21999
+    },
+    
+    {
+        "id": 2,
+        "Brand":"Audi",
+        "product_name":"Audi A4",
+        "category": "Sedan Car",
+        "category_id": 2,
+        "Image": "https://i.ibb.co/KjGw9W1/a4a4rightfrontthreequarter.jpg",
+        "Price": 4306000,
+        "Engine Capacity": "1998 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Automatic (DCT)",
+        "Fuel Tank Capacity":"54 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"241 Kmph",
+        "Mileage":"18.34 kmpl",
+        "Max Power":"187.74 bhp @ 6000 rpm",
+        "Max Torque": "320 nm @ 4200 rpm",
+        "Varient":"Petrol",
+        "Service Cost per Year": 20101
+
+    },
+    
+    {
+        "id": 2,
+        "Brand":"Skoda",
+        "product_name":"Skoda Octavia",
+        "category": "Sedan Car",
+        "category_id": 2,
+        "Image": "https://i.ibb.co/2stNFw5/octaviaoctaviarightfrontthreequarter.jpg",
+        "Price": 2685000,
+        "Engine Capacity": "1984 cc",
+        "Color":["Black","White"],
+        "Transmission": "Automatic",
+        "Fuel Tank Capacity":"50 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"165 Kmph",
+        "Mileage":"15.81 kmpl",
+        "Max Power":"187 bhp @ 6000 rpm",
+        "Max Torque": "320 nm @ 3990 rpm",
+        "Varient":"Petrol",
+        "Service Cost per Year": 15721
+
+    },
+    
+    {
+        "id": 2,
+        "Brand":"Volvo",
+        "product_name":"Volvo S60",
+        "category": "Sedan Car",
+        "category_id": 2,
+        "Image": "https://i.ibb.co/PhtDYd4/s60s60rightfrontthreequarter.jpg",
+        "Price": 4590000,
+        "Engine Capacity": "1969 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Automatic",
+        "Fuel Tank Capacity":"60 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"180 Kmph",
+        "Mileage":"19.6 to 27.03 kmpl",
+        "Max Power":"190 bhp @ 5000 rpm",
+        "Max Torque": "300 nm @ 3500 rpm",
+        "Varient":"Petrol & Diesel",
+        "Service Cost per Year":  20900
+
+    }
+    
+   
+]

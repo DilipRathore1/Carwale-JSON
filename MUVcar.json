@@ -1,0 +1,219 @@
+[
+    {
+        "id": 3,
+        "Brand":"Maruti Suzuki",
+        "product_name":"Maruti Ertiga",
+        "category": "MUV Car",
+        "category_id": 3,
+        "Image": "https://i.ibb.co/tDBwXNG/ertiga2022ertigarightfrontthreequarter.jpg",
+        "Price": 835000,
+        "Engine Capacity": "1462 cc",
+        "Color":["red","White"],
+        "Transmission": "Manual & Automatic (TC)",
+        "Fuel Tank Capacity":"60 Litres",
+        "Seating Capacity":"7 Seater",
+        "Top Speed":"170 Kmph",
+        "Mileage":"20.3 to 26.1 kmpl",
+        "Max Power":"101.65 bhp @ 6000 rpm",
+        "Max Torque": "136.8 nm @ 4400 rpm",
+        "Varient":"Petrol & CNG",
+        "Service Cost per Year": 4999
+
+    },
+
+    {
+        "id": 3,
+        "Brand":"Maruti",
+        "product_name":"Maruti XL6",
+        "category": "MUV Car",
+        "category_id": 3,
+        "Image": "https://i.ibb.co/w72DnwQ/xl62022xl6rightfrontthreequarter.jpg",
+        "Price": 1050000,
+        "Engine Capacity": "1462 cc",
+        "Color":["red","White"],
+        "Transmission": "Manual & Automatic (TC)",
+        "Fuel Tank Capacity":"45 Litres",
+        "Seating Capacity":"7 Seater",
+        "Top Speed":"170 Kmph",
+        "Mileage":"20.2 to 20.9 kmpl",
+        "Max Power":"75.8 kW @ 6000 rpm",
+        "Max Torque": "136.8 nm @ 4400 rpm",
+        "Varient":"Petrol",
+        "Service Cost per Year":  6921
+
+    },
+    
+    {
+        "id": 3,
+        "Brand":"Renault",
+        "product_name":"Renault Triber",
+        "category": "MUV Car",
+        "category_id": 3,
+        "Image": "https://i.ibb.co/KsRPCYv/tribertriberrightfrontthreequarter.jpg",
+        "Price": 590000,
+        "Engine Capacity": "999",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual & Automatic (AMT)",
+        "Fuel Tank Capacity":"40 Litres",
+        "Seating Capacity":"7 Seater",
+        "Top Speed":"140 Kmph",
+        "Mileage":"18.2 to 19 kmpl",
+        "Max Power":"71bhp @ 6250 rpm",
+        "Max Torque": "96 nm @ 3500 rpm",
+        "Varient":"Petrol",
+        "Service Cost per Year":  5099
+
+    },
+    
+    {
+        "id": 3,
+        "Brand":"Toyota",
+        "product_name":"Toyota Innova Crysta",
+        "category": "MUV Car",
+        "category_id": 3,
+        "Image": "https://i.ibb.co/fxyNGHS/innovacrystainnovacrystarightfrontthreequarter.jpg",
+        "Price": 1808000,
+        "Engine Capacity": "2393 to 2694 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual & Automatic (TC)",
+        "Fuel Tank Capacity":"65 Litres",
+        "Seating Capacity":"7 & 8 Seater",
+        "Top Speed":"175 Kmph",
+        "Mileage":"8.0 kmpl",
+        "Max Power":"163.60 bhp @ 5200 rpm",
+        "Max Torque": "245 nm @ 4000 rpm",
+        "Varient":"Petrol & Diesel",
+        "Service Cost per Year":  7569
+
+    },
+    
+    {
+        "id": 3,
+        "Brand":"Kia",
+        "product_name":"Kia Carnival",
+        "category": "MUV Car",
+        "category_id": 3,
+        "Image": "https://i.ibb.co/MMkgWz1/carnivalcarnivalrightfrontthreequarter.jpg",
+        "Price": 2999000,
+        "Engine Capacity": "2199 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Automatic",
+        "Fuel Tank Capacity":"60 Litres",
+        "Seating Capacity":"7 Seater",
+        "Top Speed":"190 Kmph",
+        "Mileage":"14.11 kmpl",
+        "Max Power":"197 bhp @ 3800 rpm",
+        "Max Torque": "440 nm @ 2750 rpm",
+        "Varient":"Diesel",
+        "Service Cost per Year": 9051
+
+    },
+    
+    {
+        "id": 3,
+        "Brand":"Mahindra",
+        "product_name":"Mahindra Marazzo",
+        "category": "MUV Car",
+        "category_id": 3,
+        "Image": "https://i.ibb.co/QXdBMgq/marazzomarazzorightfrontthreequarter.jpg",
+        "Price": 1339000,
+        "Engine Capacity": "1497 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual",
+        "Fuel Tank Capacity":"55 Litres",
+        "Seating Capacity":"7 & 8 Seater",
+        "Top Speed":"150 Kmph",
+        "Mileage":"17.3 kmpl",
+        "Max Power":"120.96 bhp @ 3500 rpm",
+        "Max Torque": "300 nm @ 2500 rpm",
+        "Varient":"Diesel",
+        "Service Cost per Year":  5883
+
+    },
+    
+    {
+        "id": 3,
+        "Brand":"Kia",
+        "product_name":"Kia Carens",
+        "category": "MUV Car",
+        "category_id": 3,
+        "Image": "https://i.ibb.co/HxgnLdy/carensexteriorrightfrontthreequarter.jpg",
+        "Price": 959000,
+        "Engine Capacity": "1353 to 1497 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual, Automatic (DCT) & Automatic (TC)",
+        "Fuel Tank Capacity":"55 Litres",
+        "Seating Capacity":"6 & 7 Seater",
+        "Top Speed":"165 Kmph",
+        "Mileage":"15.7 to 21.3 kmpl",
+        "Max Power":"113.42 bhp @ 4000 rpm",
+        "Max Torque": "250 nm @ 2750 rpm",
+        "Varient":"Petrol & Diesel",
+        "Service Cost per Year":  5999
+    },
+    
+    {
+        "id": 3,
+        "Brand":"Toyota",
+        "product_name":"Toyota Vellfire",
+        "category": "MUV Car",
+        "category_id": 3,
+        "Image": "https://i.ibb.co/DDWD8Zj/vellfirevellfirerightfrontthreequarter.jpg",
+        "Price": 9435000,
+        "Engine Capacity": "2494 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Automatic (CVT)",
+        "Fuel Tank Capacity":"58 Litres",
+        "Seating Capacity":"7 Seater",
+        "Top Speed":"170 Kmph",
+        "Mileage":"16.3 kmpl",
+        "Max Power":"115.32 bhp @ 4700 rpm",
+        "Max Torque": "198 nm @ 4000 rpm",
+        "Varient":"Hybrid (Electric + Petrol)",
+        "Service Cost per Year": 20101
+
+    },
+    
+    {
+        "id": 3,
+        "Brand":"Datsun",
+        "product_name":"Datsun GO+",
+        "category": "MUV Car",
+        "category_id": 3,
+        "Image": "https://i.postimg.cc/J0GzDkVc/gogoplusrightfrontthreequarter.jpg",
+        "Price": 426000,
+        "Engine Capacity": "1198 cc",
+        "Color":["Black","White"],
+        "Transmission": "Manual & Automatic (CVT)",
+        "Fuel Tank Capacity":"50 Litres",
+        "Seating Capacity":"7 Seater",
+        "Top Speed":"165 Kmph",
+        "Mileage":"18.5 to 19 kmpl",
+        "Max Power":"67 bhp @ 5000 rpm",
+        "Max Torque": "104 nm @ 4000 rpm",
+        "Varient":"Petrol",
+        "Service Cost per Year": 4221
+
+    },
+    
+    {
+        "id": 3,
+        "Brand":"BYD",
+        "product_name":"BYD e6",
+        "category": "MUV Car",
+        "category_id": 3,
+        "Image": "https://i.postimg.cc/ZRsn0H17/e6rightfrontthreequarter.jpg",
+        "Price": 2910000,
+        "Engine Capacity": "Electric",
+        "Color":["red","Black","White"],
+        "Transmission": "Automatic",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"150 Kmph",
+        "Mileage":"Battery Capacity 71.7 kWh",
+        "Varient":"Electric",
+        "Service Cost per Year":  4900
+
+    }
+    
+   
+]

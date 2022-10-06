@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "Brand":"Suzuki",
+        "product_name":"Maruti Suzuki Swift",
+        "category": "Hatchback Car",
+        "category_id": 1,
+        "Image": "https://i.ibb.co/XxTtMn9/swiftsolidfireredwithpearlmidnightblackroof.jpg",
+        "Price": 591000,
+        "Engine Capacity": "1197 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual & Automatic (AMT)",
+        "Fuel Tank Capacity":"37 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"160 Kmph",
+        "Mileage":"23 kmpl",
+        "Max Power":"88.50 bhp @ 6000 rpm",
+        "Max Torque": "113 nm @ 4400 rpm",
+        "Varient":"Petrol & CNG",
+        "Service Cost per Year":  4424
+
+    },
+
+    {
+        "id": 1,
+        "Brand":"Hyundai",
+        "product_name":"Hyundai Grand i10 Nios",
+        "category": "Hatchback Car",
+        "category_id": 1,
+        "Image": "https://i.ibb.co/TTfr1G9/grandi10niosgrandi10niosrightfrontthreequarter-1.jpg",
+        "Price": 542000,
+        "Engine Capacity": "1186 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual & Automatic (AMT)",
+        "Fuel Tank Capacity":"37 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"160 Kmph",
+        "Mileage":"25 kmpl",
+        "Max Power":"68.05 bhp @ 6000 rpm",
+        "Max Torque": "95.2 nm @ 4000 rpm",
+        "Varient":"Petrol & CNG",
+        "Service Cost per Year":  3921
+
+    },
+    
+    {
+        "id": 1,
+        "Brand":"Tata",
+        "product_name":"Tata Punch",
+        "category": "Hatchback Car",
+        "category_id": 1,
+        "Image": "https://i.ibb.co/Qp3rjQd/punchpunchrightfrontthreequarter.jpg",
+        "Price": 593000,
+        "Engine Capacity": "1199 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual & Automatic (AMT)",
+        "Fuel Tank Capacity":"37 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"160 Kmph",
+        "Mileage":"18.8 kmpl",
+        "Max Power":"84.48 bhp @ 6000 rpm",
+        "Max Torque": "113 nm @ 3300 rpm",
+        "Varient":"Petrol",
+        "Service Cost per Year":  4707
+
+    },
+    
+    {
+        "id": 1,
+        "Brand":"Suzuki",
+        "product_name":"Maruti Wagon R",
+        "category": "Hatchback Car",
+        "category_id": 1,
+        "Image": "https://i.ibb.co/gSMCWdk/wagonrwagonrrightfrontthreequarter.jpg",
+        "Price": 547000,
+        "Engine Capacity": "998 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual & Automatic (AMT)",
+        "Fuel Tank Capacity":"35 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"152 Kmph",
+        "Mileage":"23.5 kmpl",
+        "Max Power":"88.50 bhp @ 6,000 rpm",
+        "Max Torque": "113 nm @ 4400 rpm",
+        "Varient":"Petrol & CNG",
+        "Service Cost per Year":  3850
+
+    },
+    
+    {
+        "id": 1,
+        "Brand":"Hyundai",
+        "product_name":"Hyundai Santro",
+        "category": "Hatchback Car",
+        "category_id": 1,
+        "Image": "https://i.ibb.co/G3DxR4L/santrosantrorightfrontthreequarter.jpg",
+        "Price": 489000,
+        "Engine Capacity": "1086 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual & Automatic (AMT)",
+        "Fuel Tank Capacity":"35 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"156 Kmph",
+        "Mileage":"23 kmpl",
+        "Max Power":"68.05 bhp @ 5500 rpm",
+        "Max Torque": "99 nm @ 4500 rpm",
+        "Varient":"Petrol & CNG",
+        "Service Cost per Year": 2751
+
+    },
+    
+    {
+        "id": 1,
+        "Brand":"Hyundai",
+        "product_name":"Hyundai i20",
+        "category": "Hatchback Car",
+        "category_id": 1,
+        "Image": "https://i.ibb.co/2kG3D4L/i20rightfrontthreequarter.jpg",
+        "Price": 707000,
+        "Engine Capacity": "1197 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual, Clutchless Manual (IMT), Automatic (CVT) & Automatic (DCT)",
+        "Fuel Tank Capacity":"37 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"165 Kmph",
+        "Mileage":"23 kmpl",
+        "Max Power":"118.36 bhp @ 6000 rpm",
+        "Max Torque": "171.62 nm @ 4000 rpm",
+        "Varient":"Petrol & Diesel",
+        "Service Cost per Year":  3883
+
+    },
+    
+    {
+        "id": 1,
+        "Brand":"Renault",
+        "product_name":"Renault Kwid",
+        "category": "Hatchback Car",
+        "category_id": 1,
+        "Image": "https://i.ibb.co/r39t93X/kwidkwidrightfrontthreequarter.png",
+        "Price": 464000,
+        "Engine Capacity": "999 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual & Automatic (AMT)",
+        "Fuel Tank Capacity":"37 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"145 Kmph",
+        "Mileage":"20.7 kmpl",
+        "Max Power":"53.26 bhp @ 5600 rpm",
+        "Max Torque": "72 nm @ 4250 rpm",
+        "Varient":"Petrol",
+        "Service Cost per Year":  2999
+    },
+    
+    {
+        "id": 1,
+        "Brand":"Tata",
+        "product_name":"Tata Altroz",
+        "category": "Hatchback Car",
+        "category_id": 1,
+        "Image": "https://i.ibb.co/b7HRzmB/altrozaltrozrightfrontthreequarter.jpg",
+        "Price": 629000,
+        "Engine Capacity": "1199 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual & Automatic (DCT)",
+        "Fuel Tank Capacity":"37 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"170 Kmph",
+        "Mileage":"18.34 kmpl",
+        "Max Power":"86 bhp @ 6000 rpm",
+        "Max Torque": "113 nm @ 3300 rpm",
+        "Varient":"Petrol & Diesel",
+        "Service Cost per Year": 5101
+
+    },
+    
+    {
+        "id": 1,
+        "Brand":"Suzuki",
+        "product_name":"Maruti Ignis",
+        "category": "Hatchback Car",
+        "category_id": 1,
+        "Image": "https://i.ibb.co/mCL9jm7/ignisignisrightfrontthreequarter.jpg",
+        "Price": 517000,
+        "Engine Capacity": "1197 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual & Automatic (AMT)",
+        "Fuel Tank Capacity":"32 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"140 Kmph",
+        "Mileage":"20.8 kmpl",
+        "Max Power":"61 kW @ 6000 rpm",
+        "Max Torque": "113 nm @ 4200 rpm",
+        "Varient":"Petrol",
+        "Service Cost per Year": 3097
+
+    },
+    
+    {
+        "id": 1,
+        "Brand":"Tata",
+        "product_name":"Tata Tiago",
+        "category": "Hatchback Car",
+        "category_id": 1,
+        "Image": "https://i.ibb.co/h1MFhx7/tiagotiagorightfrontthreequarter.jpg",
+        "Price": 539000,
+        "Engine Capacity": "1199 cc",
+        "Color":["red","Black","White"],
+        "Transmission": "Manual & Automatic (AMT)",
+        "Fuel Tank Capacity":"35 Litres",
+        "Seating Capacity":"5 Seater",
+        "Top Speed":"160 Kmph",
+        "Mileage":"20 kmpl",
+        "Max Power":"72 bhp @ 6000 rpm",
+        "Max Torque": "95 nm @ 3500 rpm",
+        "Varient":"Petrol & CNG",
+        "Service Cost per Year":  3900
+
+    }
+    
+   
+]

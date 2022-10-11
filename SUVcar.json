@@ -1,6 +1,6 @@
 [
     {
-        "id": 4,
+        "id": 1,
         "Brand":"Maruti",
         "product_name":"Maruti Grand Vitara",
         "category": "SUV Car",
@@ -22,7 +22,7 @@
     },
 
     {
-        "id": 4,
+        "id": 2,
         "Brand":"Mahindra",
         "product_name":"Mahindra XUV700",
         "category": "SUV Car",
@@ -44,7 +44,7 @@
     },
     
     {
-        "id": 4,
+        "id": 3,
         "Brand":"Hyundai",
         "product_name":"Hyundai Creta",
         "category": "SUV Car",
@@ -88,7 +88,7 @@
     },
     
     {
-        "id": 4,
+        "id": 5,
         "Brand":"Toyota",
         "product_name":"Toyota Fortuner",
         "category": "SUV Car",
@@ -110,7 +110,7 @@
     },
     
     {
-        "id": 4,
+        "id": 6,
         "Brand":"MG",
         "product_name":"MG Astor",
         "category": "SUV Car",
@@ -132,7 +132,7 @@
     },
     
     {
-        "id": 4,
+        "id": 7,
         "Brand":"Tata",
         "product_name":"Tata Safari",
         "category": "SUV Car",
@@ -153,7 +153,7 @@
     },
     
     {
-        "id": 4,
+        "id": 8,
         "Brand":"Skoda",
         "product_name":"Skoda Kushaq",
         "category": "SUV Car",
@@ -175,7 +175,7 @@
     },
     
     {
-        "id": 4,
+        "id": 9,
         "Brand":"MG",
         "product_name":"MG Hector",
         "category": "SUV Car",
@@ -197,7 +197,7 @@
     },
     
     {
-        "id": 4,
+        "id": 10,
         "Brand":"Hyundai",
         "product_name":"Hyundai Tucson",
         "category": "SUV Car",

@@ -1,6 +1,6 @@
 [
     {
-        "id": 2,
+        "id": 1,
         "Brand":"Hyundai",
         "product_name":"Hyundai Verna",
         "category": "Sedan Car",
@@ -44,7 +44,7 @@
     },
     
     {
-        "id": 2,
+        "id": 3,
         "Brand":"Volkswagen",
         "product_name":"Volkswagen Virtus",
         "category": "Sedan Car",
@@ -66,7 +66,7 @@
     },
     
     {
-        "id": 2,
+        "id": 4,
         "Brand":"Suzuki",
         "product_name":"Maruti Ciaz",
         "category": "Sedan Car",
@@ -88,7 +88,7 @@
     },
     
     {
-        "id": 2,
+        "id": 5,
         "Brand":"Skoda",
         "product_name":"Skoda Slavia",
         "category": "Sedan Car",
@@ -110,7 +110,7 @@
     },
     
     {
-        "id": 2,
+        "id": 6,
         "Brand":"BMW",
         "product_name":"BMW 3 Series",
         "category": "Sedan Car",
@@ -132,7 +132,7 @@
     },
     
     {
-        "id": 2,
+        "id": 7,
         "Brand":"Mercedes-Benz",
         "product_name":"Mercedes-Benz A-Class Limousine",
         "category": "Sedan Car",
@@ -153,7 +153,7 @@
     },
     
     {
-        "id": 2,
+        "id": 8,
         "Brand":"Audi",
         "product_name":"Audi A4",
         "category": "Sedan Car",
@@ -175,7 +175,7 @@
     },
     
     {
-        "id": 2,
+        "id": 9,
         "Brand":"Skoda",
         "product_name":"Skoda Octavia",
         "category": "Sedan Car",
@@ -197,7 +197,7 @@
     },
     
     {
-        "id": 2,
+        "id": 10,
         "Brand":"Volvo",
         "product_name":"Volvo S60",
         "category": "Sedan Car",

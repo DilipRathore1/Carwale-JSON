@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "Brand":"Suzuki",
+        "Brand":"Maruti Suzuki",
         "product_name":"Maruti Suzuki Swift",
         "category": "Hatchback Car",
         "category_id": 1,
@@ -22,7 +22,7 @@
     },
 
     {
-        "id": 1,
+        "id": 2,
         "Brand":"Hyundai",
         "product_name":"Hyundai Grand i10 Nios",
         "category": "Hatchback Car",
@@ -44,7 +44,7 @@
     },
     
     {
-        "id": 1,
+        "id": 3,
         "Brand":"Tata",
         "product_name":"Tata Punch",
         "category": "Hatchback Car",
@@ -66,7 +66,7 @@
     },
     
     {
-        "id": 1,
+        "id": 4,
         "Brand":"Suzuki",
         "product_name":"Maruti Wagon R",
         "category": "Hatchback Car",
@@ -88,7 +88,7 @@
     },
     
     {
-        "id": 1,
+        "id": 5,
         "Brand":"Hyundai",
         "product_name":"Hyundai Santro",
         "category": "Hatchback Car",
@@ -110,7 +110,7 @@
     },
     
     {
-        "id": 1,
+        "id": 6,
         "Brand":"Hyundai",
         "product_name":"Hyundai i20",
         "category": "Hatchback Car",
@@ -132,7 +132,7 @@
     },
     
     {
-        "id": 1,
+        "id": 7,
         "Brand":"Renault",
         "product_name":"Renault Kwid",
         "category": "Hatchback Car",
@@ -153,7 +153,7 @@
     },
     
     {
-        "id": 1,
+        "id": 8,
         "Brand":"Tata",
         "product_name":"Tata Altroz",
         "category": "Hatchback Car",
@@ -175,7 +175,7 @@
     },
     
     {
-        "id": 1,
+        "id": 9,
         "Brand":"Suzuki",
         "product_name":"Maruti Ignis",
         "category": "Hatchback Car",
@@ -197,7 +197,7 @@
     },
     
     {
-        "id": 1,
+        "id": 10,
         "Brand":"Tata",
         "product_name":"Tata Tiago",
         "category": "Hatchback Car",

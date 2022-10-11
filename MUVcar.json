@@ -1,6 +1,6 @@
 [
     {
-        "id": 3,
+        "id": 1,
         "Brand":"Maruti Suzuki",
         "product_name":"Maruti Ertiga",
         "category": "MUV Car",
@@ -22,7 +22,7 @@
     },
 
     {
-        "id": 3,
+        "id": 2,
         "Brand":"Maruti",
         "product_name":"Maruti XL6",
         "category": "MUV Car",
@@ -66,7 +66,7 @@
     },
     
     {
-        "id": 3,
+        "id": 4,
         "Brand":"Toyota",
         "product_name":"Toyota Innova Crysta",
         "category": "MUV Car",
@@ -88,7 +88,7 @@
     },
     
     {
-        "id": 3,
+        "id": 5,
         "Brand":"Kia",
         "product_name":"Kia Carnival",
         "category": "MUV Car",
@@ -110,7 +110,7 @@
     },
     
     {
-        "id": 3,
+        "id": 6,
         "Brand":"Mahindra",
         "product_name":"Mahindra Marazzo",
         "category": "MUV Car",
@@ -132,7 +132,7 @@
     },
     
     {
-        "id": 3,
+        "id": 7,
         "Brand":"Kia",
         "product_name":"Kia Carens",
         "category": "MUV Car",
@@ -153,7 +153,7 @@
     },
     
     {
-        "id": 3,
+        "id": 8,
         "Brand":"Toyota",
         "product_name":"Toyota Vellfire",
         "category": "MUV Car",
@@ -175,7 +175,7 @@
     },
     
     {
-        "id": 3,
+        "id": 9,
         "Brand":"Datsun",
         "product_name":"Datsun GO+",
         "category": "MUV Car",
@@ -197,7 +197,7 @@
     },
     
     {
-        "id": 3,
+        "id": 10,
         "Brand":"BYD",
         "product_name":"BYD e6",
         "category": "MUV Car",
